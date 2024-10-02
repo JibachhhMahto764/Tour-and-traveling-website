@@ -7,6 +7,16 @@
 ## Login page
 ![login page](https://github.com/user-attachments/assets/dd9fff92-334e-45b8-8bf9-870ed880944a)
 
+## Admin login page
+![login page](https://github.com/user-attachments/assets/d56f8f4b-168c-4274-a92f-4012e195b326)
+
+## Countries page
+![countriespage](https://github.com/user-attachments/assets/5833f340-83d1-4acb-841f-ef72c5dbcaf4)
+##Cities Page
+![cities](https://github.com/user-attachments/assets/0f33f87b-ad07-4bb1-a2cb-efcbc70e216e)
+## Bookings page
+![bookings](https://github.com/user-attachments/assets/beba8f7d-fa47-40bb-a5a9-fe7501d99a05)
+
 
 
 
