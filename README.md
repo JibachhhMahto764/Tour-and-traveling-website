@@ -14,8 +14,7 @@
 ![countriespage](https://github.com/user-attachments/assets/5833f340-83d1-4acb-841f-ef72c5dbcaf4)
 ##Cities Page
 ![cities](https://github.com/user-attachments/assets/0f33f87b-ad07-4bb1-a2cb-efcbc70e216e)
-## Bookings page
-![bookings](https://github.com/user-attachments/assets/beba8f7d-fa47-40bb-a5a9-fe7501d99a05)
+
 
 
 
