@@ -1,3 +1,16 @@
+## Home page
+![userpage](https://github.com/user-attachments/assets/3f29ad3d-f912-4537-94ec-cbab3618b94f)
+
+## Register Page
+![registerpage](https://github.com/user-attachments/assets/b21111af-72b3-49bb-9b86-1bde6928b07b)
+
+## Login page
+![login page](https://github.com/user-attachments/assets/dd9fff92-334e-45b8-8bf9-870ed880944a)
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
