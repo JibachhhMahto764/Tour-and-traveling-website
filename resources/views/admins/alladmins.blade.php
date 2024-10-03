@@ -2,9 +2,6 @@
 
 @section('content')
 
-
-
-
 <div class="row">
         <div class="col">
           <div class="card">
@@ -34,7 +31,6 @@
                   </tr>
                     @endforeach
                  
-                  
                 </tbody>
               </table> 
             </div>
