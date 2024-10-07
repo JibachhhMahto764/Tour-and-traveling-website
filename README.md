@@ -37,10 +37,11 @@ Follow these instructions to set up and run the project locally on your Machine.
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/tauseedzaman/hospitalMS.git
+   https://github.com/JibachhhMahto764/Tour-and-traveling-website.git
 ```
  ```bash
-   cd hospitalMS
+   cd Tour-and-traveling-website
+    
 ```
 
  ```bash
